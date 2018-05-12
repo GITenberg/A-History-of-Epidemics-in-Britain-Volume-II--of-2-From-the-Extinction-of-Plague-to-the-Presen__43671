@@ -1,0 +1,28 @@
+_repo: A-History-of-Epidemics-in-Britain-Volume-II--of-2-From-the-Extinction-of-Plague-to-the-Presen__43671
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43671-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Creighton, Charles
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '41817'
+    url: http://www.gutenberg.org/2009/agents/41817
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Creighton
+description: ''
+gutenberg_issued: '2013-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Epidemics -- Great Britain -- History'
+title: "A History of Epidemics in Britain, Volume 2 (of 2)\r\nFrom the Extinction\
+  \ of Plague to the Present Time"
+url: http://www.gutenberg.org/ebooks/43671
